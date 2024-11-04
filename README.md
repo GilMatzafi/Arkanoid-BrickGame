@@ -45,12 +45,12 @@ Each stage presents new challenges and layouts to keep the gameplay engaging and
    java -version
 
 2. Navigate to the src folder of the project and compile the Java files:
-  ```bash
-  javac -cp "../biuoop-1.4.jar" *.java
+   ```bash
+   javac -cp "../biuoop-1.4.jar" *.java
 
 3. After compilation, run the game with the following command:
-  ```bash
-  java -cp ".:../biuoop-1.4.jar" Ass6Game
+   ```bash
+   java -cp ".:../biuoop-1.4.jar" Ass6Game
 
 ## Additional Notes 📌
 - This game serves as a demonstration of in-depth understanding of OOP principles and effective use of design patterns.
