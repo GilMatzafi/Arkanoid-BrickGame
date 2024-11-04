@@ -52,7 +52,7 @@ Each stage presents new challenges and layouts to keep the gameplay engaging and
   ```bash
   java -cp ".:../biuoop-1.4.jar" Ass6Game
 
-  ## Additional Notes 📌
+## Additional Notes 📌
 - This game serves as a demonstration of in-depth understanding of OOP principles and effective use of design patterns.
 - It can be expanded to include additional features, such as difficulty levels, visual enhancements, and more.
 - Feel free to explore and customize the code to make it your own! 💡
